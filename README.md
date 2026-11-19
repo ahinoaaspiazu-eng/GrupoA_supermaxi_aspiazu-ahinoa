@@ -20,4 +20,4 @@ El presente proyecto consiste en el análisis y diseño de una plataforma web y 
 |RNF-02|No funcional|El sistema deberá contar con una interfaz sencilla e intuitiva que facilite a los clientes la navegación y realización de sus compras.|Solicitar a un cliente que navegue por la plataforma, busque un producto y realice una compra por primera vez|El cliente deberá poder usar la plataforma y completar su compra de manera sencilla e intuitiva, sin dificultades|
 ## Documento PDF
 [ver documento CP2]
-(CP2_REQUERIMINTOS_Y_PRUEBAS.pdf)
+(CP2_REQUERIMIENTOS_Y_PRUEBAS.pdf)
