@@ -19,5 +19,4 @@ El presente proyecto consiste en el análisis y diseño de una plataforma web y 
 |RNF-01|No funcional|El sistema deberá garantizar la protección de los datos personales de los clientes, evitando el uso no autorizado de su información.|Verificar que los datos personales de los clientes sean utilizados únicamente para los fines que estos hayan aceptado|El sistema deberá proteger los datos personales y evitar que sean utilizados para fines no autorizados por el cliente|
 |RNF-02|No funcional|El sistema deberá contar con una interfaz sencilla e intuitiva que facilite a los clientes la navegación y realización de sus compras.|Solicitar a un cliente que navegue por la plataforma, busque un producto y realice una compra por primera vez|El cliente deberá poder usar la plataforma y completar su compra de manera sencilla e intuitiva, sin dificultades|
 ## Documento PDF
-[ver documento CP2]
-(CP2_REQUERIMIENTOS_Y_PRUEBAS.pdf)
+[ver documento CP2](CP2_REQUERIMIENTOS_Y_PRUEBAS.pdf)
